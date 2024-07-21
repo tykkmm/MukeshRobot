@@ -5,7 +5,7 @@ class Config(object):
     TOKEN = "7355006985:AAEY8ijg4CP-8GgcliRGJja87Tby78QT7To"  
     OWNER_ID=5976437467
     
-    SUPPORT_CHAT = "" 
+    SUPPORT_CHAT = "db" 
     START_IMG = "https://graph.org/file/eaa3a2602e43844a488a5.jpg"
     EVENT_LOGS = ()
     MONGO_DB_URI= "mongodb+srv://Arainanwar009:Ux955XkbkTntynx@cluster0.b1chu9a.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
