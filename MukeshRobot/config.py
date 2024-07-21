@@ -1,14 +1,14 @@
 class Config(object):
     LOGGER = True
-    API_ID =None 
-    API_HASH = ""
-    TOKEN = ""  
-    OWNER_ID=None
+    API_ID =29426486 
+    API_HASH = "d71ad4ec048ab41677a1a439b21ff0c9"
+    TOKEN = "7355006985:AAEY8ijg4CP-8GgcliRGJja87Tby78QT7To"  
+    OWNER_ID=5976437467
     
     SUPPORT_CHAT = "" 
-    START_IMG = ""
+    START_IMG = "https://graph.org/file/eaa3a2602e43844a488a5.jpg"
     EVENT_LOGS = ()
-    MONGO_DB_URI= ""
+    MONGO_DB_URI= "mongodb+srv://Arainanwar009:Ux955XkbkTntynx@cluster0.b1chu9a.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
    
     DATABASE_URL = ""  # A sql database url from elephantsql.com
     CASH_API_KEY = (
