@@ -12,9 +12,9 @@ class Config(object):
    
     DATABASE_URL = ""  # A sql database url from elephantsql.com
     CASH_API_KEY = (
-        ""
+        "V48U2FLLKRHSVD4X""
     )
-    TIME_API_KEY = ""
+    TIME_API_KEY = "1CUBX1HXGNHW""
 
     
     BL_CHATS = [] 
